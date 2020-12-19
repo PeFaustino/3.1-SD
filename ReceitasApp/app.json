@@ -1,0 +1,12 @@
+{
+  "name": "ReceitasApp",
+  "displayName": "ReceitasApp",
+  "expo": {
+    "name": "ReceitasApp",
+    "slug": "ReceitasApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
